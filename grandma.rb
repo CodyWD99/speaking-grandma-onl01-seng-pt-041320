@@ -1,6 +1,7 @@
 def speak_to_grandma(talk)
   if "#{talk}" == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
+    "I LOVE YOU TOO PUMPKIN!"
   elsif "#{talk}" == "#{talk}".upcase
     puts "NO, NOT SINCE 1938!"
     "NO, NOT SINCE 1938!"
