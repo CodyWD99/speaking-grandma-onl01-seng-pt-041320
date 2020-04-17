@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  speak = get.chomp
+  speak = gets.chomp
   if speak == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
     elsif speak == "I SAID I LOVE YOU!"
