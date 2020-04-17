@@ -19,5 +19,6 @@ def speak_to_grandma
     elsif speak == "I SAID I LOVE YOU!"
     puts "NO, NOT SINCE 1938!"
   else
-    puts ""
+    puts "HUH?! SPEAK UP, SONNY!"
   end
+  
