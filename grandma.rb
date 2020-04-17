@@ -1,5 +1,5 @@
 def speak_to_grandma(talk)
-  if talk == "I LOVE YOU GRANDMA!"
+  if #{talk} == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif talk == "I SAID I LOVE YOU!"
     puts "NO, NOT SINCE 1938!"
