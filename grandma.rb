@@ -7,4 +7,3 @@ def speak_to_grandma(talk)
     puts "HUH?! SPEAK UP, SONNY!"
   end
 end
-  speak_to_grandma
