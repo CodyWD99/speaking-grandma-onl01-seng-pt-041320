@@ -1,4 +1,4 @@
-def speak_to_grandma
+def speak_to_grandma(gets.chomp)
   talk = gets.chomp
   if talk == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
