@@ -18,5 +18,6 @@ def speak_to_grandma
     puts "I LOVE YOU TOO PUMPKIN!"
     elsif speak == "I SAID I LOVE YOU!"
     puts "NO, NOT SINCE 1938!"
-  els
-    
+  else
+    puts ""
+  end
