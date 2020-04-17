@@ -14,4 +14,4 @@
 
 def speak_to_grandma
   speak = get.chomp
-  
+  if 
