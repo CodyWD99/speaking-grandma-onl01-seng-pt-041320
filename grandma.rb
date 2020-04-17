@@ -14,4 +14,5 @@
 
 def speak_to_grandma
   speak = get.chomp
-  if speak == 
+  if speak == "grandma, i love you."
+    puts ""
